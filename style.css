@@ -4,14 +4,14 @@ img {
 
 
 .kep2 {
-    justify-content: left;
+    color: blue;
 }
 .kep3 {
-    justify-content: center;
+    color: red;
 }
 .kep4 {
-    justify-content: right;
+    color: forestgreen;
 }
 .kep5 {
-    justify-content: space-evenly;
+    color: greenyellow;
 }
