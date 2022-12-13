@@ -4,14 +4,14 @@ img {
 
 
 .kep2 {
-    color: blue;
+    border-color: blue;
 }
 .kep3 {
-    color: red;
+    border-color: red;
 }
 .kep4 {
-    color: forestgreen;
+    border-color: forestgreen;
 }
 .kep5 {
-    color: greenyellow;
+    border-color: greenyellow;
 }
