@@ -1,3 +1,19 @@
 img {
     border: 10px solid black;
 }
+
+.kep1 {
+
+}
+.kep2 {
+    justify-content: left;
+}
+.kep3 {
+    justify-content: center;
+}
+.kep4 {
+    justify-content: right;
+}
+.kep5 {
+    justify-content: space-evenly;
+}
